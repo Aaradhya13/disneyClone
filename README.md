@@ -3,7 +3,7 @@
 🚀 Live Demo: [Disney Clone](https://disney-clone-aaradhya.vercel.app/)  
 
 📽️ Preview:  
-![Project Video](https://drive.google.com/file/d/1FMXrjZidTMvLAWMCdTibcxa9moUbseh3/view?usp=sharing)  
+[Project Video](https://drive.google.com/file/d/1FMXrjZidTMvLAWMCdTibcxa9moUbseh3/view?usp=sharing)  
 
 ## 📌 About  
 This is a **Disney+ Clone** built with **React, Vite, and Tailwind CSS**, featuring:  
